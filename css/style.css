@@ -18,3 +18,36 @@ p {
     font-size: 18px;
     text-align: center;
 }
+/* Styles for lists */
+ul, ol {
+    text-align: center;
+    list-style-position: inside;
+}
+/* Styles for the description */
+.description {
+    font-size: 18px;
+    margin: 20px;
+}
+/* Styles for section titles */
+.section-title {
+    color: darkblue;
+    text-align: center;
+}
+/* Styles for the about section */
+#about {
+    padding: 20px;
+}
+/* Styles for the more info section */
+#more-info {
+    padding: 20px;
+}
+/* Styles for the discography section */
+#discography {
+    padding: 20px;
+}
+/* Styles for the music container */
+.music-container {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
