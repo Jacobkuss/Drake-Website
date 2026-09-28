@@ -1,0 +1,20 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+}
+/* Styles for the main headings */
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+/* Styles for subheadings */
+h2 {
+    text-align: center;
+    font-size: 28px;
+}
+
+/* Styles for paragraphs */
+p {
+    font-size: 18px;
+    text-align: center;
+}
